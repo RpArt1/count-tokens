@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@nem035/gpt-3-encoder@1.1.7":
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/@nem035/gpt-3-encoder/-/gpt-3-encoder-1.1.7.tgz#34f27863c22230fbfbcf1c8413d849c6f51cc2bb"
+  integrity sha512-dtOenP4ZAmsKXkobTDUCcbkQvPJbuJ6Kp/LHqWDYLK//XNgGs3Re8ymcQzyVhtph8JckdI3K8FR5Q+6mX7HnpQ==
+
 boolbase@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
@@ -122,11 +127,6 @@ formdata-polyfill@^4.0.10:
   integrity sha512-buewHzMvYL29jdeQTVILecSaZKnt/RJWjoZCF5OW60Z67/GmSLBkOFM7qh1PI3zFNtJbaZL5eQu1vLfazOwj4g==
   dependencies:
     fetch-blob "^3.1.2"
-
-gpt-3-encoder@1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/gpt-3-encoder/-/gpt-3-encoder-1.1.4.tgz#d6cdaacf5824857e133b6065247c757fc7e4fa72"
-  integrity sha512-fSQRePV+HUAhCn7+7HL7lNIXNm6eaFWFbNLOOGtmSJ0qJycyQvj60OvRlH7mee8xAMjBDNRdMXlMwjAbMTDjkg==
 
 htmlparser2@^3.9.1:
   version "3.10.1"
